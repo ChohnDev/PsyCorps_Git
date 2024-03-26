@@ -4348,3 +4348,463 @@ decompress to graphics memory quickly?" in the Oodle FAQ.
 [2024.03.26-09.42.36:490][512]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PsiCorps_Galactic/Blueprints/Projectiles/BP_PlayerProjectile.BP_PlayerProjectile
 [2024.03.26-09.42.36:490][512]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PsiCorps_Galactic/Blueprints/Enemy_AI/BP_Aggro.BP_Aggro
 [2024.03.26-09.42.37:633][626]LogViewport: Scene viewport resized to 1014x580, mode Windowed.
+[2024.03.26-09.43.03:878][893]LogViewport: Scene viewport resized to 1526x900, mode Windowed.
+[2024.03.26-09.46.17:137][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.03.26-09.46.18:250][ 55]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.26-09.46.18:250][ 55]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-09.46.18:250][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-09.46.18:720][104]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.26-09.46.18:720][104]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-09.46.18:720][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-09.46.19:264][155]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.26-09.46.19:264][155]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-09.46.19:264][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-09.52.53:495][ 52]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.26-09.52.53:495][ 52]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-09.52.53:495][ 52]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'pelvis' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_03' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_04' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_05' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_l' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_r' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_r' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_l' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_l' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_l' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_02' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_01' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_02' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'head' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_r' 
+[2024.03.26-09.52.53:637][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_r' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'pelvis' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_03' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_04' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_05' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_l' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_r' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_r' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_l' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_l' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_l' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_02' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_01' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_02' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'head' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_r' 
+[2024.03.26-09.52.59:848][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_r' 
+[2024.03.26-09.52.59:850][570]LogViewport: Scene viewport resized to 992x528, mode Windowed.
+[2024.03.26-09.53.29:484][359]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-09.53.29:493][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-09.53.29:493][359]PIE: New page: PIE session: Galaxy_Map1 (27 Mar 2024, 7:53:29 am)
+[2024.03.26-09.53.29:493][359]LogPlayLevel: Creating play world package: /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1
+[2024.03.26-09.53.29:497][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003622s)
+[2024.03.26-09.53.29:497][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PsiCorps_Galactic/Levels/Galaxy_Map1.Galaxy_Map1 to /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1 (0.003663s)
+[2024.03.26-09.53.29:515][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.03.26-09.53.29:524][359]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-09.53.29:524][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-09.53.29:525][359]LogAIModule: Creating AISystem for world Galaxy_Map1
+[2024.03.26-09.53.29:525][359]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2024.03.26-09.53.29:525][359]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.03.26-09.53.29:525][359]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-09.53.29:525][359]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-09.53.29:525][359]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-09.53.29:525][359]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-09.53.29:525][359]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-09.53.29:525][359]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-09.53.29:525][359]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-09.53.29:525][359]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-09.53.29:526][359]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-09.53.29:526][359]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-09.53.29:526][359]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-09.53.29:528][359]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-09.53.29:557][359]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech PRO X Gaming Headset)
+[2024.03.26-09.53.29:557][359]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-09.53.29:557][359]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-09.53.29:557][359]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-09.53.29:558][359]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.03.26-09.53.29:558][359]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=15
+[2024.03.26-09.53.29:560][359]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.03.26-09.53.29:560][359]LogInit: FAudioDevice initialized with ID 15.
+[2024.03.26-09.53.29:560][359]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.03.26-09.53.29:560][359]LogAudio: Display: Audio Device (ID: 15) registered with world 'Galaxy_Map1'.
+[2024.03.26-09.53.29:560][359]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.03.26-09.53.29:585][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-09.53.29:585][359]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.26-09.53.29:586][359]LogWorld: Bringing World /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1 up for play (max tick rate 0) at 2024.03.26-20.53.29
+[2024.03.26-09.53.29:587][359]LogWorld: Bringing up level for play took: 0.001455
+[2024.03.26-09.53.29:589][359]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'pelvis' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_03' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_04' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_05' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_l' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_r' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_r' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_l' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_l' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_l' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_02' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_01' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_02' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'head' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_r' 
+[2024.03.26-09.53.29:592][359]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_r' 
+[2024.03.26-09.53.29:667][359]PIE: Server logged in
+[2024.03.26-09.53.29:669][359]PIE: Play in editor total start time 0.176 seconds.
+[2024.03.26-09.53.29:703][359]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.26-09.53.50:216][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-09.53.50:216][465]LogWorld: BeginTearingDown for /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1
+[2024.03.26-09.53.50:217][465]LogSlate: Window 'PsiCorp_Galactic Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.26-09.53.50:224][465]LogWorld: UWorld::CleanupWorld for Galaxy_Map1, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-09.53.50:227][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-09.53.50:230][465]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-09.53.50:235][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-09.53.50:254][465]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-09.53.50:254][465]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.03.26-09.53.50:254][465]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.03.26-09.53.50:256][465]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.03.26-09.53.50:268][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.03.26-09.53.50:354][466]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.03.26-09.53.52:172][634]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-09.53.52:181][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-09.53.52:181][634]PIE: New page: PIE session: Galaxy_Map1 (27 Mar 2024, 7:53:52 am)
+[2024.03.26-09.53.52:181][634]LogPlayLevel: Creating play world package: /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1
+[2024.03.26-09.53.52:185][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003582s)
+[2024.03.26-09.53.52:185][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PsiCorps_Galactic/Levels/Galaxy_Map1.Galaxy_Map1 to /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1 (0.003627s)
+[2024.03.26-09.53.52:200][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.26-09.53.52:201][634]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-09.53.52:201][634]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-09.53.52:201][634]LogAIModule: Creating AISystem for world Galaxy_Map1
+[2024.03.26-09.53.52:202][634]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2024.03.26-09.53.52:202][634]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.03.26-09.53.52:202][634]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-09.53.52:202][634]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-09.53.52:202][634]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-09.53.52:202][634]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-09.53.52:202][634]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-09.53.52:202][634]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-09.53.52:202][634]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-09.53.52:202][634]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-09.53.52:202][634]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-09.53.52:203][634]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-09.53.52:203][634]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-09.53.52:204][634]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-09.53.52:233][634]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech PRO X Gaming Headset)
+[2024.03.26-09.53.52:233][634]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-09.53.52:233][634]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-09.53.52:233][634]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-09.53.52:234][634]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.03.26-09.53.52:234][634]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=16
+[2024.03.26-09.53.52:236][634]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.03.26-09.53.52:236][634]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.03.26-09.53.52:236][634]LogInit: FAudioDevice initialized with ID 16.
+[2024.03.26-09.53.52:236][634]LogAudio: Display: Audio Device (ID: 16) registered with world 'Galaxy_Map1'.
+[2024.03.26-09.53.52:236][634]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.03.26-09.53.52:256][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-09.53.52:256][634]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.26-09.53.52:257][634]LogWorld: Bringing World /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1 up for play (max tick rate 0) at 2024.03.26-20.53.52
+[2024.03.26-09.53.52:258][634]LogWorld: Bringing up level for play took: 0.001420
+[2024.03.26-09.53.52:260][634]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'pelvis' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_03' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_04' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_05' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_l' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_r' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_r' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_l' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_l' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_l' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_02' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_01' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_02' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'head' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_r' 
+[2024.03.26-09.53.52:263][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_r' 
+[2024.03.26-09.53.52:338][634]PIE: Server logged in
+[2024.03.26-09.53.52:340][634]PIE: Play in editor total start time 0.159 seconds.
+[2024.03.26-09.53.52:374][634]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.26-09.55.14:007][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-09.55.14:007][927]LogWorld: BeginTearingDown for /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1
+[2024.03.26-09.55.14:007][927]LogSlate: Window 'PsiCorp_Galactic Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.26-09.55.14:016][927]LogWorld: UWorld::CleanupWorld for Galaxy_Map1, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-09.55.14:019][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-09.55.14:022][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-09.55.14:028][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-09.55.14:048][927]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.03.26-09.55.14:048][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.03.26-09.55.14:050][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.03.26-09.55.14:063][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.03.26-09.55.14:148][928]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.03.26-09.55.15:158][ 18]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-09.55.15:167][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-09.55.15:167][ 18]PIE: New page: PIE session: Galaxy_Map1 (27 Mar 2024, 7:55:15 am)
+[2024.03.26-09.55.15:167][ 18]LogPlayLevel: Creating play world package: /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1
+[2024.03.26-09.55.15:171][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004020s)
+[2024.03.26-09.55.15:171][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PsiCorps_Galactic/Levels/Galaxy_Map1.Galaxy_Map1 to /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1 (0.004070s)
+[2024.03.26-09.55.15:185][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.03.26-09.55.15:187][ 18]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-09.55.15:187][ 18]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-09.55.15:187][ 18]LogAIModule: Creating AISystem for world Galaxy_Map1
+[2024.03.26-09.55.15:188][ 18]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2024.03.26-09.55.15:188][ 18]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.03.26-09.55.15:188][ 18]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-09.55.15:188][ 18]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-09.55.15:188][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-09.55.15:188][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-09.55.15:188][ 18]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-09.55.15:188][ 18]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-09.55.15:188][ 18]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-09.55.15:188][ 18]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-09.55.15:188][ 18]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-09.55.15:188][ 18]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-09.55.15:188][ 18]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-09.55.15:191][ 18]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-09.55.15:220][ 18]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech PRO X Gaming Headset)
+[2024.03.26-09.55.15:220][ 18]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-09.55.15:220][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-09.55.15:220][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-09.55.15:220][ 18]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.03.26-09.55.15:220][ 18]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=17
+[2024.03.26-09.55.15:223][ 18]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.03.26-09.55.15:223][ 18]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.03.26-09.55.15:223][ 18]LogInit: FAudioDevice initialized with ID 17.
+[2024.03.26-09.55.15:223][ 18]LogAudio: Display: Audio Device (ID: 17) registered with world 'Galaxy_Map1'.
+[2024.03.26-09.55.15:223][ 18]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.03.26-09.55.15:244][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-09.55.15:244][ 18]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.26-09.55.15:246][ 18]LogWorld: Bringing World /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1 up for play (max tick rate 0) at 2024.03.26-20.55.15
+[2024.03.26-09.55.15:246][ 18]LogWorld: Bringing up level for play took: 0.001349
+[2024.03.26-09.55.15:248][ 18]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.03.26-09.55.15:251][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'pelvis' 
+[2024.03.26-09.55.15:251][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_03' 
+[2024.03.26-09.55.15:251][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_04' 
+[2024.03.26-09.55.15:251][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_05' 
+[2024.03.26-09.55.15:251][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.03.26-09.55.15:251][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.03.26-09.55.15:251][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_l' 
+[2024.03.26-09.55.15:252][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.03.26-09.55.15:252][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_r' 
+[2024.03.26-09.55.15:252][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_r' 
+[2024.03.26-09.55.15:252][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_l' 
+[2024.03.26-09.55.15:252][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_l' 
+[2024.03.26-09.55.15:252][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_l' 
+[2024.03.26-09.55.15:252][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_02' 
+[2024.03.26-09.55.15:252][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_01' 
+[2024.03.26-09.55.15:252][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_02' 
+[2024.03.26-09.55.15:252][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'head' 
+[2024.03.26-09.55.15:252][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.03.26-09.55.15:252][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.03.26-09.55.15:252][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.03.26-09.55.15:252][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_r' 
+[2024.03.26-09.55.15:252][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_r' 
+[2024.03.26-09.55.15:326][ 18]PIE: Server logged in
+[2024.03.26-09.55.15:328][ 18]PIE: Play in editor total start time 0.161 seconds.
+[2024.03.26-09.55.15:360][ 18]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.26-09.55.50:826][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-09.55.50:826][915]LogWorld: BeginTearingDown for /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1
+[2024.03.26-09.55.50:827][915]LogSlate: Window 'PsiCorp_Galactic Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.26-09.55.50:834][915]LogWorld: UWorld::CleanupWorld for Galaxy_Map1, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-09.55.50:837][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-09.55.50:840][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-09.55.50:847][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-09.55.50:866][915]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.03.26-09.55.50:866][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.03.26-09.55.50:868][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.03.26-09.55.50:880][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.03.26-09.55.50:986][916]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.03.26-09.56.42:979][ 24]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-09.56.42:979][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-09.56.55:390][278]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-09.56.55:398][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-09.56.55:398][278]PIE: New page: PIE session: Galaxy_Map1 (27 Mar 2024, 7:56:55 am)
+[2024.03.26-09.56.55:398][278]LogPlayLevel: Creating play world package: /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1
+[2024.03.26-09.56.55:402][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003779s)
+[2024.03.26-09.56.55:402][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PsiCorps_Galactic/Levels/Galaxy_Map1.Galaxy_Map1 to /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1 (0.003826s)
+[2024.03.26-09.56.55:420][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.03.26-09.56.55:432][278]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-09.56.55:432][278]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-09.56.55:433][278]LogAIModule: Creating AISystem for world Galaxy_Map1
+[2024.03.26-09.56.55:433][278]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2024.03.26-09.56.55:433][278]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.03.26-09.56.55:433][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-09.56.55:433][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-09.56.55:433][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-09.56.55:433][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-09.56.55:433][278]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-09.56.55:433][278]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-09.56.55:433][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-09.56.55:433][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-09.56.55:434][278]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-09.56.55:434][278]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-09.56.55:434][278]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-09.56.55:436][278]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-09.56.55:465][278]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech PRO X Gaming Headset)
+[2024.03.26-09.56.55:465][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-09.56.55:465][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-09.56.55:465][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-09.56.55:466][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.03.26-09.56.55:466][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=18
+[2024.03.26-09.56.55:468][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.03.26-09.56.55:468][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.03.26-09.56.55:468][278]LogInit: FAudioDevice initialized with ID 18.
+[2024.03.26-09.56.55:468][278]LogAudio: Display: Audio Device (ID: 18) registered with world 'Galaxy_Map1'.
+[2024.03.26-09.56.55:468][278]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.03.26-09.56.55:471][278]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.26-09.56.55:473][278]LogWorld: Bringing World /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1 up for play (max tick rate 0) at 2024.03.26-20.56.55
+[2024.03.26-09.56.55:473][278]LogWorld: Bringing up level for play took: 0.001173
+[2024.03.26-09.56.55:475][278]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'pelvis' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_03' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_04' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_05' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_l' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_r' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_r' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_l' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_l' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_l' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_02' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_01' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_02' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'head' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_r' 
+[2024.03.26-09.56.55:478][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_r' 
+[2024.03.26-09.56.55:547][278]PIE: Server logged in
+[2024.03.26-09.56.55:548][278]PIE: Play in editor total start time 0.15 seconds.
+[2024.03.26-09.57.35:686][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-09.57.35:686][614]LogWorld: BeginTearingDown for /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1
+[2024.03.26-09.57.35:687][614]LogWorld: UWorld::CleanupWorld for Galaxy_Map1, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-09.57.35:689][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-09.57.35:693][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-09.57.35:699][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-09.57.35:716][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-09.57.35:716][614]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.03.26-09.57.35:716][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.03.26-09.57.35:718][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.03.26-09.57.35:730][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.03.26-09.57.35:817][615]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.03.26-09.57.49:746][178]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PsiCorps_Galactic/Blueprints/Enemy_AI/BP_Aggro.BP_Aggro
+[2024.03.26-09.57.49:746][178]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-09.57.49:746][178]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-09.57.57:657][701]BlueprintLog: New page: Compile BP_Aggro
+[2024.03.26-09.57.57:724][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.03.26-09.57.58:771][749]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-09.57.58:779][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-09.57.58:779][749]PIE: New page: PIE session: Galaxy_Map1 (27 Mar 2024, 7:57:58 am)
+[2024.03.26-09.57.58:779][749]LogPlayLevel: Creating play world package: /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1
+[2024.03.26-09.57.58:783][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003672s)
+[2024.03.26-09.57.58:783][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PsiCorps_Galactic/Levels/Galaxy_Map1.Galaxy_Map1 to /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1 (0.003711s)
+[2024.03.26-09.57.58:799][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.26-09.57.58:808][749]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-09.57.58:808][749]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-09.57.58:808][749]LogAIModule: Creating AISystem for world Galaxy_Map1
+[2024.03.26-09.57.58:809][749]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2024.03.26-09.57.58:809][749]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.03.26-09.57.58:809][749]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-09.57.58:809][749]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-09.57.58:809][749]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-09.57.58:809][749]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-09.57.58:809][749]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-09.57.58:809][749]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-09.57.58:809][749]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-09.57.58:809][749]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-09.57.58:809][749]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-09.57.58:809][749]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-09.57.58:809][749]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-09.57.58:811][749]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-09.57.58:840][749]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech PRO X Gaming Headset)
+[2024.03.26-09.57.58:840][749]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-09.57.58:840][749]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-09.57.58:840][749]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-09.57.58:841][749]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.03.26-09.57.58:841][749]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=19
+[2024.03.26-09.57.58:843][749]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.03.26-09.57.58:843][749]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.03.26-09.57.58:843][749]LogInit: FAudioDevice initialized with ID 19.
+[2024.03.26-09.57.58:843][749]LogAudio: Display: Audio Device (ID: 19) registered with world 'Galaxy_Map1'.
+[2024.03.26-09.57.58:843][749]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.03.26-09.57.58:873][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-09.57.58:873][749]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.26-09.57.58:875][749]LogWorld: Bringing World /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1 up for play (max tick rate 0) at 2024.03.26-20.57.58
+[2024.03.26-09.57.58:875][749]LogWorld: Bringing up level for play took: 0.001219
+[2024.03.26-09.57.58:877][749]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'pelvis' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_03' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_04' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_05' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_l' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_r' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_r' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_l' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_l' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_l' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_02' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_01' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_02' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'head' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_r' 
+[2024.03.26-09.57.58:880][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1.Galaxy_Map1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_r' 
+[2024.03.26-09.57.58:960][749]PIE: Server logged in
+[2024.03.26-09.57.58:965][749]PIE: Play in editor total start time 0.186 seconds.
+[2024.03.26-09.57.58:994][749]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.26-09.58.50:917][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-09.58.50:917][758]LogWorld: BeginTearingDown for /Game/PsiCorps_Galactic/Levels/UEDPIE_0_Galaxy_Map1
+[2024.03.26-09.58.50:918][758]LogSlate: Window 'PsiCorp_Galactic Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.26-09.58.50:928][758]LogWorld: UWorld::CleanupWorld for Galaxy_Map1, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-09.58.50:931][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-09.58.50:934][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-09.58.50:941][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-09.58.50:961][758]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-09.58.50:962][758]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.03.26-09.58.50:962][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.03.26-09.58.50:964][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.03.26-09.58.50:988][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.03.26-09.58.51:071][759]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.03.26-09.59.29:104][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.03.26-09.59.29:108][489]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PsiCorps_Galactic/Levels/Galaxy_Map1' took 0.019
+[2024.03.26-09.59.29:108][489]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PsiCorps_Galactic/Blueprints/Enemy_AI/BP_Aggro] ([2] browsable assets)...
+[2024.03.26-09.59.29:153][489]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PsiCorps_Galactic/Blueprints/Enemy_AI/BP_Aggro.BP_Aggro]
+[2024.03.26-09.59.29:153][489]OBJ SavePackage: Finished generating thumbnails for package [/Game/PsiCorps_Galactic/Blueprints/Enemy_AI/BP_Aggro]
+[2024.03.26-09.59.29:217][489]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PsiCorps_Galactic/Blueprints/Enemy_AI/BP_Aggro_Auto2
+[2024.03.26-09.59.29:218][489]LogSavePackage: Moving '../../../../../../Users/Chohn/Desktop/PsyCorps_Git/PsyCorps_Git/Project_PsiCorp_Galactic/PsiCorp_Galactic/Saved/BP_Aggro_Auto29934045B4B605D88C8E9F686D1558D55.tmp' to '../../../../../../Users/Chohn/Desktop/PsyCorps_Git/PsyCorps_Git/Project_PsiCorp_Galactic/PsiCorp_Galactic/Saved/Autosaves/Game/PsiCorps_Galactic/Blueprints/Enemy_AI/BP_Aggro_Auto2.uasset'
+[2024.03.26-09.59.29:220][489]LogFileHelpers: Auto-saving content packages took 0.113
+[2024.03.26-10.09.31:377][752]LogDerivedDataCache: C:/Users/Chohn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.219 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4468 files in 6016 folders with total size 468 MiB.
