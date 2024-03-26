@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Chohn/Desktop/PsyCorps_Git/PsyCorps_Git/Project_PsiCorp_Galactic/PsiCorp_Galactic/Content/PsiCorps_Galactic/Levels/Galaxy_Map1.umap",
+				"C:/Users/Chohn/Desktop/PsyCorps_Git/PsyCorps_Git/Project_PsiCorp_Galactic/PsiCorp_Galactic/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Chohn/Desktop/PsyCorps_Git/PsyCorps_Git/Project_PsiCorp_Galactic/PsiCorp_Galactic/Content/PsiCorps_Galactic/Blueprints/Projectiles/BP_PlayerProjectile.uasset",
+				"C:/Users/Chohn/Desktop/PsyCorps_Git/PsyCorps_Git/Project_PsiCorp_Galactic/PsiCorp_Galactic/Content/PsiCorps_Galactic/Blueprints/Enemy_AI/BP_Aggro.uasset",
 				"C:/Users/Chohn/Desktop/Project_PsiCorp_Galactic/PsiCorp_Galactic/Content/PsiCorps_Galactic/Enums/E_AggroFlyingMode.uasset",
 				"C:/Users/Chohn/Desktop/Project_PsiCorp_Galactic/PsiCorp_Galactic/Content/PsiCorps_Galactic/Materials/Red_Emissive.uasset",
 				"C:/Users/Chohn/Desktop/Project_PsiCorp_Galactic/PsiCorp_Galactic/Content/PsiCorps_Galactic/Blueprints/Enemy_AI/BP_PatrolLocation.uasset",
