@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Chohn\\Desktop\\test\\Project_PsiCorp_Galactic\\PsiCorp_Galactic\\Intermediate\\Source\\PsiCorp_Galactic.Build.cs",
+		"C:\\Users\\Chohn\\Desktop\\test\\Project_PsiCorp_Galactic\\PsiCorp_Galactic\\Intermediate\\Source\\PsiCorp_Galactic.Target.cs",
+		"C:\\Users\\Chohn\\Desktop\\test\\Project_PsiCorp_Galactic\\PsiCorp_Galactic\\Intermediate\\Source\\PsiCorp_GalacticClient.Target.cs",
+		"C:\\Users\\Chohn\\Desktop\\test\\Project_PsiCorp_Galactic\\PsiCorp_Galactic\\Intermediate\\Source\\PsiCorp_GalacticEditor.Target.cs",
+		"C:\\Users\\Chohn\\Desktop\\test\\Project_PsiCorp_Galactic\\PsiCorp_Galactic\\Intermediate\\Source\\PsiCorp_GalacticServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
